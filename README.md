@@ -1,6 +1,6 @@
 # My Website Project
 
-This repository contains 125 files that make up my live website. 
+This repository contains 165 files that make up my live website. 
 
 ## 📂 Project Structure
 
